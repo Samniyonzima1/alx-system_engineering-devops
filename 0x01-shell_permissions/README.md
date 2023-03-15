@@ -1,1 +1,2 @@
-file and folders permissino
+#!/bin/bash
+shells permissions
